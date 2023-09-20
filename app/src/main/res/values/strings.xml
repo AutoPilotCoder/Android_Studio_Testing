@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="right_button">Random</string>
+    <string name="left_button">Toast</string>
+    <string name="middle_button">Count</string>
+    <string name="second_page_fragment">Second Page with no %d</string>
+</resources>
